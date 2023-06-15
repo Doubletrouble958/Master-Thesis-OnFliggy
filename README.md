@@ -3,9 +3,9 @@
 Available at https://tianchi.aliyun.com/dataset/113649
 
 Fliggy dataset contains three subsets: 
-- user_behavior_transfer_plans.csv which contains all user behavior data, including User ID, product ID, behavior type, timestamp
-- user_profile.csv all user basic attribute portraits, including User ID, age, gender, occupation, habitual city, crowd tag
-- transfer_plan_profile.csv all the basic attributes of the product, including Product ID, product category ID, product city, product tag
+- *user_behavior_transfer_plans.csv* which contains all user behavior data, including 'User ID', 'product ID', 'behavior type', 'timestamp'
+- *user_profile.csv* all user basic attribute portraits, including 'User ID', 'age', 'gender', 'occupation', 'habitual city', 'crowd tag'
+- *transfer_plan_profile.csv* all the basic attributes of the product, including 'Product ID', 'product category ID', 'product city', 'product tag'
 
 ## Problem
 The thesis aims to predict the last behavior of the user within the sequence mainly based on the behavior history data, comparing with utilizing embedded item information altogether. 
